@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaniilRen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats-blond-eight.vercel.app/api/top-langs/?username=DaniilRen)](https://github.com/anuraghazra/github-readme-stats)
